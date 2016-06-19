@@ -134,19 +134,6 @@ OS : Linux, Windows
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-cloud fa-stack-1x text-primary"></i>
-                            </span>
-                                <h4>
-                                    <strong>Desktop Apps dev</strong>
-                                </h4>
-                                <p>developed a couple of desktop apps acadamically and professionally. checkout the link below</p>
-                                <a href="https://github.com/TriumphantAkash/LibraryManager" class="btn btn-light">Learn More</a>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="service-item">
-                                <span class="fa-stack fa-4x">
-                                <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-compass fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
@@ -178,8 +165,21 @@ OS : Linux, Windows
                                 <h4>
                                     <strong>Desktop Apps Dev</strong>
                                 </h4>
-                                <p class="small" >have created some desktop apps, recently worked on creating my own query language called AdityaQL</p>
+                    <p class="small" >have created some desktop apps, recently worked on creating my own query language called AdityaQL</p>
                                 <a href="https://github.com/Murdocc007/Binary-Databasen" class="btn btn-light">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-cloud fa-stack-1x text-primary"></i>
+                            </span>
+                                <h4>
+                                    <strong>Mobile Apps dev</strong>
+                                </h4>
+                                <p>developed a couple of android apps. checkout the link below</p>
+                                <a href="https://github.com/Murdocc007/BreakoutGame" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
                     </div>
