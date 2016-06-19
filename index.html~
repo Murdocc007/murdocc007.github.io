@@ -289,13 +289,12 @@ OS : Linux, Windows
                         <li><i class="fa fa-phone fa-fw"></i> (972) 855-7961</li>
                         <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:adityamahajan1392@gmail.com">adityamahajan1392@gmail.com</a>
                         </li>
-                    	<li>
-                            <a href="resources/aditya_resume.pdf"><i class="fa fa-fw fa-2x">CV</i></a>
-                        </li>
                     </ul>
                     <br>
                     <ul class="list-inline">
-                    
+                        <li>
+                            <a href="resources/aditya_resume.pdf"><i class="fa fa-fw fa-2x">CV</i></a>
+                        </li>
                     	<li>
                             <a href="https://www.quora.com/profile/Aditya-Mahajan-2"><i class="fa fa-fw fa-3x">Q</i></a>
                         </li>
