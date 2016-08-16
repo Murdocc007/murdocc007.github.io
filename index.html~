@@ -106,8 +106,8 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h4><strong>Machine Learning Enthusiast, Computer Science Graduate student at University of Texas at Dallas.</strong></h4>
-                    <p class="medium">Languages : C, Python , R , Matlab , Octave , C++ (STL, Boost), Java, PHP , HTML, CSS, JavaScript <br>
-Data Science Languages and Tools : Octave , R , Scikit-learn , Pandas , Hadoop , MapReduce <br>
+                    <p class="medium">Languages : C, Python , R , Matlab , Octave , C++, Java, PHP , HTML, CSS, JavaScript <br>
+Data Science Languages and Tools : Octave , R , Scikit-learn , Pandas , Spark, Hadoop, MapReduce, Pig, Hive <br>
 IDE/Editor : Eclipse, Vim, IntelliJ Idea <br>
 OS : Linux, Windows
 
@@ -303,7 +303,7 @@ OS : Linux, Windows
                             <a href="https://www.linkedin.com/in/adityamahajan2"><i class="fa fa-linkedin fa-fw fa-3x"></i></a>
                         </li>
                         <li>
-                            <a href="https://github.com/murdocc007"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
+                            <a href="https://github.com/murdocc007"><i class="fa fa-github fa-fw fa-3x"></i></a>
                         </li>
                     </ul>
                     <hr class="small">
